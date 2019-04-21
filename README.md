@@ -5,7 +5,7 @@
 
 You enter the number of players; each player can enter his name. Then you choose the amount of dices you want to play with; choose therefore the pips of a dice. Run your game as many rounds as you want and see who´s winning.
 
-![1](Würfelspiel_Screenshot.jpg)
+![1](Würfelspiel_Screenshot.JPG)
 
 
 
