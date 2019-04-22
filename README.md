@@ -5,17 +5,40 @@
 
 You enter the number of players; each player can enter his name. Then you choose the amount of dices you want to play with; choose therefore the pips of a dice. Run your game as many rounds as you want and see who´s winning.
 
-![1](Würfelspiel_Screenshot.JPG)
+![1](Würfelspiel_Screenshot.jpg)
 
 
 
-## Installation
+## Execute
 
 Windows:
 
 ```csharp
 DiceGame.exe
 ```
+
+or
+
+```csharp
+Visual Studio: Start "Wuerfelspiel.GameController" GameController.cs SHIFT + F5
+```
+
+
+
+## Technologies
+
+Created with
+
+- [ ] Microsoft Visual Studio 2017
+- [ ] .NET Framework 4.6.1
+
+Programming language:
+
+- [ ] C#
+
+Application style:
+
+- [ ] Console
 
 
 
@@ -24,16 +47,16 @@ DiceGame.exe
 * CHANGE: Update docs (module code remains unchanged)
 
 * 1.3
-    
+  
     * ADD: Method to alter the pips of a dice
 * 1.2
-    
+  
     * FIX: Output on console, when more than one player has won
 * 1.1
     * Implement GameController class
     * CHANGE: Split Dice class into Player & Game class 
 * 1.0
-    
+  
     * Work in progress
     
       
